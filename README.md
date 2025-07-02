@@ -1,1 +1,19 @@
-# readings
+# Readings
+
+## Memory models
+* [A Formal Analysis of the NVIDIA PTX Memory Consistency Model](https://dl.acm.org/doi/10.1145/3297858.3304043)
+* [RISC-V Unprivileged ISA Manual: Chapter 17 and Appendix A on RVWMO](https://riscv.github.io/riscv-isa-manual/snapshot/unprivileged/#memorymodel)
+
+## Memory barriers
+* [Memory Barriers: a Hardware View for Software Hackers](http://www.rdrop.com/users/paulmck/scalability/paper/whymb.2010.07.23a.pdf)
+* [Linux Kernel Memory Barriers](https://www.kernel.org/doc/Documentation/memory-barriers.txt)
+
+## Parallel programming
+* [Rust Atomics and Locks](https://marabos.nl/atomics/)
+* [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
+
+## GPGPU ISA and uarch design
+* [Vortex GPGPU ISA](https://arxiv.org/pdf/2110.10857)
+
+## GPGPU compiler design
+* [Convergence and Scalarization for Data-Parallel Architectures](https://research.nvidia.com/index.php/publication/2013-02_convergence-and-scalarization-data-parallel-architectures)
