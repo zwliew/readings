@@ -14,6 +14,11 @@
 
 ## GPGPU ISA and uarch design
 * [Vortex GPGPU ISA](https://arxiv.org/pdf/2110.10857)
+* [Analyzing Modern NVIDIA GPU cores](https://arxiv.org/abs/2503.20481)
+* [Apple G13 GPU Architecture Reference](https://dougallj.github.io/applegpu/docs.html)
 
 ## GPGPU compiler design
 * [Convergence and Scalarization for Data-Parallel Architectures](https://research.nvidia.com/index.php/publication/2013-02_convergence-and-scalarization-data-parallel-architectures)
+
+## DL compiler design
+* [Triton: An Intermediate Language and Compiler for Tiled Neural Network Computations](https://www.eecs.harvard.edu/~htk/publication/2019-mapl-tillet-kung-cox.pdf)
