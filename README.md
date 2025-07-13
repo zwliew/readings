@@ -22,3 +22,8 @@
 
 ## DL compiler design
 * [Triton: An Intermediate Language and Compiler for Tiled Neural Network Computations](https://www.eecs.harvard.edu/~htk/publication/2019-mapl-tillet-kung-cox.pdf)
+
+## Sanitizers
+* [AddressSanitizer: A Fast Address Sanity Checker](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf)
+* [ThreadSanitizer - data race detection in practice](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35604.pdf)
+* [Dynamic Race Detection with LLVM Compiler](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37278.pdf)
