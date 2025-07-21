@@ -16,6 +16,8 @@
 * [Vortex GPGPU ISA](https://arxiv.org/pdf/2110.10857)
 * [Analyzing Modern NVIDIA GPU cores](https://arxiv.org/abs/2503.20481)
 * [Apple G13 GPU Architecture Reference](https://dougallj.github.io/applegpu/docs.html)
+* [MTIA: First Generation Silicon Targeting Meta’s Recommendation Systems](http://firoozshahian.com/publications/3579371.3589348.pdf)
+* [Meta’s Second Generation AI Chip: Model-Chip Co-Design and Productionization Experiences](https://dl.acm.org/doi/pdf/10.1145/3695053.3731409)
 
 ## GPGPU compiler design
 * [Convergence and Scalarization for Data-Parallel Architectures](https://research.nvidia.com/index.php/publication/2013-02_convergence-and-scalarization-data-parallel-architectures)
